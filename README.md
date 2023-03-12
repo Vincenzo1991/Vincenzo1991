@@ -5,7 +5,7 @@
 
 As a Front-End and Back-End Web/Mobile developer, my work ethic is fueled by a passion for creating user-centered products that can make a tangible difference. I take pride in building products that have a meaningful impact and strive to achieve that goal with every project.
 
-😍Also I can speak chinese fluently incase you are a chinese or can speak Mandarin Chinese please connect with me, Let's be friend🙌
+😍Also I can speak chinese fluently incase you are a chinese or can speak Mandarin Chinese please connect with me. Let be friends🙌
 
 Tech Stack : Javascript | React | Python | Typescript | Vue | C | HTML | CSS | Node | MySQL.
 
