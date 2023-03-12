@@ -1,9 +1,11 @@
-<h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> I'm <B>Chike</B></h3>
+<h3 align="center"> Hi there! 🧑🏾‍💻你好 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> I'm <B>Chike</B></h3>
 <hr>
 
 ### I'm Chike Ugochukwu 🤖
 
 As a Front-End and Back-End Web/Mobile developer, my work ethic is fueled by a passion for creating user-centered products that can make a tangible difference. I take pride in building products that have a meaningful impact and strive to achieve that goal with every project.
+
+😍😍Also I can speak chinese fluently incase you are a chinese or can speak Mandarin Chinese please connect with me, Let's be friend🙌
 
 Tech Stack : Javascript | React | Python | Typescript | Vue | C | HTML | CSS | Node | MySQL.
 
