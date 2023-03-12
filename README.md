@@ -10,7 +10,9 @@ Tech Stack : Javascript | React | Python | Typescript | Vue | C | HTML | CSS | N
 - 📫 How to reach me: 
   * 🕊 [Twitter](https://twitter.com/officialchike_ "My Twitter")
   * 📱 [LinkedIn](https://www.linkedin.com/in/ugochukwu-chike/ "My LinkedIn")
-  * 🧑‍💻 [Discord](
+  * 🧑‍💻 [Whatsapp](https://wa.me/message/6IZKMRMQ7DEYI1 "My Whatsapp")
+
+
 - 😄 Pronouns: he/him 👨🏼‍🦳👨🏼‍🦳.
 - ⚡ Fun fact: I read investment and motivation books alot for fun 📚📖🧾.
 - ⚡ Joke Part: Don't play with my laptop, that's my baby 🧑‍💻🧑🏾‍💻🖥️.
