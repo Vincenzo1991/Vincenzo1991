@@ -1,7 +1,35 @@
-### Hi there 👋
+<h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> I'm <B>Chike</B></h3>
+<hr>
+
+### I'm Chike Ugochukwu 🤖
+
+As a Front-End and Back-End Web/Mobile developer, my work ethic is fueled by a passion for creating user-centered products that can make a tangible difference. I take pride in building products that have a meaningful impact and strive to achieve that goal with every project.
+
+Tech Stack : Javascript | React | Python | Typescript | Vue | C | HTML | CSS | Node | MySQL.
+
+- 📫 How to reach me: 
+  * 🕊 [Twitter](https://twitter.com/officialchike_ "My Twitter")
+  * 📱 [LinkedIn](https://www.linkedin.com/in/ugochukwu-chike/ "My LinkedIn")
+  * 🧑‍💻 [Discord](
+- 😄 Pronouns: he/him 👨🏼‍🦳👨🏼‍🦳.
+- ⚡ Fun fact: I read investment and motivation books alot for fun 📚📖🧾.
+- ⚡ Joke Part: Don't play with my laptop, that's my baby 🧑‍💻🧑🏾‍💻🖥️.
+
+
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vincenzo1991" alt="Vincenzo1991" /></a> </p>
+  
+  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vincenzo1991&" alt="Vincenzo1991" /></p
+ 
+  ![status](https://badge.stateful.com/Leo-Chan01/dnd.svg)
+
+## The technology stack I am currently using.
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,python,flutter,git,github,firebase,vscode,html,css,c,javascript,graphql,solidity,tensorflow,vscode,react,gcp,nodejs,bootstrap,express,gradle,java,matlab,mongodb,mysql,octave,)](https://skillicons.dev)
 
 <!--
-**Vincenzo1991/Vincenzo1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
+
 
 Here are some ideas to get you started:
 
