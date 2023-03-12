@@ -16,7 +16,7 @@ Tech Stack : Javascript | React | Python | Typescript | Vue | C | HTML | CSS | N
 
 
 - 😄 Pronouns: he/him 👨🏼‍🦳👨🏼‍🦳.
-- ⚡ Fun fact: I read investment and motivation books alot for fun 📚📖🧾.
+- ⚡ Fun fact: I read investment and motivation books a lot for fun 📚📖🧾.
 - ⚡ Joke Part: Don't play with my laptop, that's my baby 🧑‍💻🧑🏾‍💻🖥️.
 
 
